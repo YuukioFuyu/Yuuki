@@ -13,7 +13,11 @@ Just like this :
 
 NOTE :
 Hey. This Flags running Spam Command in Command Prompt so this Flags or Virus will not be closed unless you have to close it via Powershell Interaction
+
 and...
+
 This virus is more fun when you upload and run it from Metasploit, because this is only to mark computers that you have hacked!
+
 and again...
+
 Have Fun :)
